@@ -1,0 +1,4 @@
+ISO/IEC 14443A (106 kbps) target:
+    ATQA (SENS_RES): 00  04  
+       UID (NFCID1): 2d  42  18  5a  
+      SAK (SEL_RES): 08  
